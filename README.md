@@ -2,4 +2,4 @@
 Annular Prior Prompt Learning for Medical Images Segmentation
 
 
-Coming soon!
+The code will come soon after the publication of the paper!
